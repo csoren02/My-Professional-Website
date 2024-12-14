@@ -1,0 +1,62 @@
+/* Global Styles */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #212529; /* Dark gray text */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header and Footer Styles */
+header, footer {
+    text-align: center;
+    background-color: #0d6efd; /* Primary Blue */
+    color: white;
+    padding: 1rem 0;
+}
+
+/* Heading Styles */
+h1, h2 {
+    color: #0d6efd; /* Primary Blue */
+}
+
+/* Button Style */
+a.button {
+    display: inline-block;
+    background-color: #0d6efd;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+
+/* Image Styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Iframe Styles */
+iframe {
+    width: 100%;
+    max-width: 560px;
+    border: none;
+}
+
+/* Section and Article Styles */
+section, article {
+    margin: 20px auto;
+    padding: 1rem;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* List Styles */
+ol, ul {
+    margin: 0 0 1rem 1.5rem;
+}
